@@ -1,6 +1,6 @@
 <?php
 
-namespace Joshbrw\LaravelPluginInstaller;
+namespace Maneash\LaravelPluginInstaller;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
